@@ -1,5 +1,5 @@
 # PygmyGoat 🐐
-> **A lightweight, high-performance cluster monitoring system built with Go, Python (FastAPI), and TypeScript with (React).**
+> **A lightweight, high-performance cluster monitoring system built with Go, Python (FastAPI), and TypeScript (React).**
 
 ---
 
